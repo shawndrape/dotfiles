@@ -1,0 +1,54 @@
+tap "homebrew/bundle"
+tap "homebrew/services"
+# Validating, recursive, caching DNS resolver
+brew "unbound"
+# GNU Transport Layer Security (TLS) Library
+brew "gnutls"
+# GNU Emacs text editor
+brew "emacs"
+# Emacs dependency management
+brew "cask"
+# GitHub command-line tool
+brew "gh"
+# Distributed revision control system
+brew "git"
+# User-friendly cURL replacement (command-line HTTP client)
+brew "httpie"
+# Lightweight and flexible command-line JSON processor
+brew "jq"
+# Easy way to access the system keyring service from python
+brew "keyring"
+# Platform built on V8 to build network applications
+brew "node"
+# Manage multiple Node.js versions
+brew "nvm"
+# Python package management tool
+brew "poetry"
+# Python version management
+brew "pyenv"
+# Organize software neatly under a single directory tree (e.g. /usr/local)
+brew "stow"
+# Tool for creating isolated virtual python environments
+brew "virtualenv"
+# Command-line client for WebSockets
+brew "websocat"
+# App to build and share containerised applications and microservices
+cask "docker"
+# Terminal emulator as alternative to Apple's Terminal app
+cask "iterm2"
+# Move and resize windows using keyboard shortcuts or snap areas
+cask "rectangle"
+# Open-source code editor
+cask "visual-studio-code"
+# Video communication and virtual meeting platform
+cask "zoom"
+vscode "alexcvzz.vscode-sqlite"
+vscode "charliermarsh.ruff"
+vscode "github.copilot"
+vscode "github.copilot-chat"
+vscode "ms-python.black-formatter"
+vscode "ms-python.debugpy"
+vscode "ms-python.mypy-type-checker"
+vscode "ms-python.python"
+vscode "ms-python.vscode-pylance"
+vscode "zeshuaro.vscode-python-poetry"

@@ -22,5 +22,5 @@ _darcs
 ^/LICENSE.*
 ^/COPYING
 
-iterm2_profile
+program_configs/*
 scripts/*

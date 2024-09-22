@@ -16,6 +16,6 @@ auth. Otherwise, connection will not work
 
 ## TODO
 - [ ] Install brew
-- [ ] Install items from brew (incl. pyenv)
+- [x] Install items from brew (incl. pyenv)
 - [ ] Install oh-my-zsh
 - [ ] Add .editorconfig
