@@ -2,10 +2,7 @@
 
 ## Dependencies
 
-Install GNU Stow
-```
-brew install stow
-```
+Install Homebrew, and be sure to add the eval script to .zprofile (which this does not manage)
 
 ## Reminders
 
