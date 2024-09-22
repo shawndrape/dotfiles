@@ -40,8 +40,6 @@ cask "iterm2"
 cask "rectangle"
 # Open-source code editor
 cask "visual-studio-code"
-# Video communication and virtual meeting platform
-cask "zoom"
 vscode "alexcvzz.vscode-sqlite"
 vscode "charliermarsh.ruff"
 vscode "github.copilot"
